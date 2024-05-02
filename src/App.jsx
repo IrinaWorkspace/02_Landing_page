@@ -10,6 +10,7 @@ const App = () => {
   return (
     <main className="relative">
       <Nav />
+
       <section className="padding">
         <Hero />
       </section>
