@@ -4,9 +4,9 @@ const NewsletterSignup = () => {
   return (
     <section
       style={{ backgroundColor: "#394649" }}
-      className="h-screen flex items-center justify-center mt-10 lg:mt-0"
+      className="h-[600px] flex items-center justify-center mt-10 "
     >
-      <div className="w-full max-w-xl px-4 sm:px-8 md:px-16 lg:px-32">
+      <div className="w-full max-w-xl px-4  md:px-16 lg:px-32">
         <h2 className="text-4xl sm:text-5xl font-bold text-white mb-4 text-center">
           Готови ли сте да работим заедно?
         </h2>

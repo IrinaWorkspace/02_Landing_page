@@ -1,6 +1,6 @@
 const Information = () => {
   return (
-    <section className="bg-hero-bg bg-cover bg-center h-screen flex items-center justify-center text-content-color mt-4 sm:mt-40">
+    <section className="bg-hero-bg bg-cover bg-center h-screen flex items-center justify-center text-content-color mt-4">
       <div className="container max-w-3xl">
         <h2 className="text-3xl lg:text-4xl font-bold text-left mb-16">
           Решения

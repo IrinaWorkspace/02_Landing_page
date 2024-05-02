@@ -11,13 +11,13 @@ const App = () => {
     <main className="relative">
       <Nav />
 
-      <section className="padding">
+      <section className="px-4">
         <Hero />
       </section>
-      <section className="pt-60 lg:pt-3 px-16 pb-16 ">
+      <section className="pt-16 lg:pt-40 px-4 pb-2 ">
         <Information />
       </section>
-      <section className="pt-72 lg:pt-3 pb-3 ">
+      <section className="pt-36 lg:pt-3 pb-3 ">
         <NewsletterSignup />
       </section>
       <section className="padding">
