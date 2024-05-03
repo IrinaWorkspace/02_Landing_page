@@ -107,7 +107,7 @@ const Nav = () => {
             <li className="mt-2 lg:mt-0">
               <a
                 href="/"
-                className="font-semibold text-base border-solid border-2 border-nav-links rounded-lg py-3 px-4 ms-[-15px] "
+                className="font-semibold text-base border-solid border-2 border-nav-links rounded-lg py-3 px-4 lg:ms-[-15px] "
               >
                 Заявка за пратка
               </a>

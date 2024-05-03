@@ -20,7 +20,7 @@ const App = () => {
       <section className="pt-36 lg:pt-3 pb-3 ">
         <NewsletterSignup />
       </section>
-      <section className="padding">
+      <section className="px-4 lg:padding">
         <PopularProducts />
       </section>
     </main>
